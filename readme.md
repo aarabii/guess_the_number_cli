@@ -2,7 +2,7 @@
 
 A [CLI tool](https://en.wikipedia.org/wiki/Command-line_interface) to play the game **Guess The Number**
 
-![Logo](https://raw.githubusercontent.com/losier/guess_the_number_cli/master/asset/logo.png)
+![Logo](https://raw.githubusercontent.com/losier/guess_the_number_cli/master/asset/logo2.png)
 
 ## Badges
 
