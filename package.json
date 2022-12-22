@@ -1,14 +1,25 @@
 {
   "name": "guess_the_number_cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command lined based guess the number game.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "bin": "./index.js",
+  "repository": "https://github.com/losier/guess_the_number_cli",
+  "keywords": [
+    "cli",
+    "game",
+    "guess",
+    "number",
+    "guess the number",
+    "guess the number game",
+    "guess the number cli",
+    "guess the number cli game"
+  ],
+  "author": "losier",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.1.2",
