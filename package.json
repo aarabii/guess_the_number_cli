@@ -9,6 +9,7 @@
   },
   "bin": "./index.js",
   "repository": "https://github.com/losier/guess_the_number_cli",
+  "homepage": "https://github.com/losier/guess_the_number_cli#readme",
   "keywords": [
     "cli",
     "game",
